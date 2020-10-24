@@ -2,11 +2,11 @@
     "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/get-woke/woke/releases/download/v0.2.1/woke_0.2.1_windows_amd64.tar.gz",
+            "url": "https://github.com/get-woke/woke/releases/download/v0.2.1/woke-0.2.1-windows-amd64.zip",
             "bin": [
                 "woke.exe"
             ],
-            "hash": "79acd72f287e2310c5d78ffad325a5150176abe872b0d2bfc885d311760704ee"
+            "hash": "48c97886ccdc19a90f7bf29fd18f484ff270164a8c61951447114092c056c1cc"
         }
     },
     "homepage": "https://getwoke.tech",
