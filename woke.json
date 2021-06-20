@@ -1,19 +1,19 @@
 {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/get-woke/woke/releases/download/v0.9.0/woke-0.9.0-windows-386.zip",
+            "url": "https://github.com/get-woke/woke/releases/download/v0.9.1/woke-0.9.1-windows-386.zip",
             "bin": [
-                "woke-0.9.0-windows-386/woke.exe"
+                "woke-0.9.1-windows-386/woke.exe"
             ],
-            "hash": "04dcea7327c02e61a6b0b00b8b5ef970a335d8612fdacb752a643f88ef986764"
+            "hash": "47cae99a8972afda51b45c36b0b6c4af0fb9e6f1e3b5228582f8d50c8fbaa16e"
         },
         "64bit": {
-            "url": "https://github.com/get-woke/woke/releases/download/v0.9.0/woke-0.9.0-windows-amd64.zip",
+            "url": "https://github.com/get-woke/woke/releases/download/v0.9.1/woke-0.9.1-windows-amd64.zip",
             "bin": [
-                "woke-0.9.0-windows-amd64/woke.exe"
+                "woke-0.9.1-windows-amd64/woke.exe"
             ],
-            "hash": "c7e4ce7d4742aab237c687bcd68cd693fb4571f538b46bc646dde69f2cd0c205"
+            "hash": "b261e1dcedea54ceb34cbb9e5ced307903f6e0eda03c99373706c99ad9ba7ebe"
         }
     },
     "homepage": "https://getwoke.tech",
